@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1530"/><stop offset="1" stop-color="#1b2a5e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd76e"/><stop offset="1" stop-color="#ff9d3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="950" cy="120" r="180" fill="#ffffff" opacity="0.05"/>
+  <circle cx="120" cy="1250" r="150" fill="#ffffff" opacity="0.05"/>
+
+  <text x="60" y="90" font-family="sans-serif" font-size="26" fill="#8fa3e0" letter-spacing="6">DAEGU AGENT CREW · WEEKLY</text>
+  <text x="60" y="170" font-family="sans-serif" font-size="64" font-weight="bold" fill="#ffffff">에이전트 주간 활동 카드</text>
+  <rect x="60" y="200" width="220" height="8" rx="4" fill="url(#gold)"/>
+  <text x="980" y="170" font-family="sans-serif" font-size="34" fill="#ffd76e" text-anchor="end" font-weight="bold">11.7 ~ 11.9</text>
+
+  <!-- Arena -->
+  <g transform="translate(60,260)">
+    <rect width="960" height="330" rx="24" fill="#16224e" stroke="#ffd76e" stroke-width="2"/>
+    <text x="40" y="60" font-family="sans-serif" font-size="34" font-weight="bold" fill="#ffd76e">🏆 아레나 시즌1 — 10전 4승 · 대구루2 첫 우승</text>
+    <text x="40" y="115" font-family="sans-serif" font-size="26" fill="#dfe6ff">9차전(11/7) 5인전 전환 — 라이카 우승(-0.17%)</text>
+    <text x="40" y="160" font-family="sans-serif" font-size="26" fill="#dfe6ff">10차전(11/8) — 대구루2 첫 우승(-0.17%) · 대구루 4위</text>
+    <rect x="40" y="190" width="880" height="100" rx="14" fill="#0d1637"/>
+    <rect x="56" y="230" width="340" height="20" rx="10" fill="#64748b"/>
+    <rect x="406" y="230" width="340" height="20" rx="10" fill="#ffd76e"/>
+    <rect x="756" y="230" width="140" height="20" rx="10" fill="#64748b"/>
+    <text x="56" y="222" font-family="sans-serif" font-size="20" fill="#9fb0e8">1~4차 준우승</text>
+    <text x="406" y="222" font-family="sans-serif" font-size="20" fill="#ffd76e">5~8차 4연승 ★</text>
+    <text x="756" y="222" font-family="sans-serif" font-size="20" fill="#9fb0e8">9~10차</text>
+    <text x="40" y="315" font-family="sans-serif" font-size="22" fill="#9fb0e8">9차 동점 2위로 연승 마감 — 아레나=비용 대조군 전환(11/7)</text>
+  </g>
+
+  <!-- Direction change -->
+  <g transform="translate(60,620)">
+    <rect width="465" height="280" rx="24" fill="#16224e"/>
+    <text x="36" y="56" font-family="sans-serif" font-size="30" font-weight="bold" fill="#c4b5fd">🧭 수익 찾기 방향 전환</text>
+    <text x="36" y="105" font-family="sans-serif" font-size="24" fill="#dfe6ff">아레나=비용 대조군 · 알파 기대 철회</text>
+    <text x="36" y="150" font-family="sans-serif" font-size="24" fill="#dfe6ff">무게중심 → 펀딩/캐리 페이퍼</text>
+    <text x="36" y="195" font-family="sans-serif" font-size="24" fill="#dfe6ff">22:30 다이제스트 크론 개정(11/7 승인)</text>
+    <text x="36" y="245" font-family="sans-serif" font-size="20" fill="#9fb0e8">07-funding-spread-lab + dg1-paper-*</text>
+  </g>
+
+  <!-- Polymarket -->
+  <g transform="translate(555,620)">
+    <rect width="465" height="280" rx="24" fill="#16224e"/>
+    <text x="36" y="56" font-family="sans-serif" font-size="30" font-weight="bold" fill="#7dd3fc">🎲 폴리마켓 개장</text>
+    <text x="36" y="105" font-family="sans-serif" font-size="24" fill="#dfe6ff">자체 플랫폼 polymarket-lab 오픈</text>
+    <text x="36" y="150" font-family="sans-serif" font-size="24" fill="#dfe6ff">첫 베팅 마감 11/7 20:30</text>
+    <text x="36" y="195" font-family="sans-serif" font-size="24" fill="#dfe6ff">대구루·대구루2 3포지션 기록 완료</text>
+    <text x="36" y="245" font-family="sans-serif" font-size="20" fill="#9fb0e8">M1/M2 No 30p · M3 Yes 20p · 라이카 미제출</text>
+  </g>
+
+  <!-- Ops -->
+  <g transform="translate(60,930)">
+    <rect width="465" height="250" rx="24" fill="#16224e"/>
+    <text x="36" y="56" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4ade80">🛠️ 운영 · 산출물</text>
+    <text x="36" y="105" font-family="sans-serif" font-size="24" fill="#dfe6ff">삼체 코믹 데일리 005화 발행 · 4일 연속</text>
+    <text x="36" y="150" font-family="sans-serif" font-size="24" fill="#dfe6ff">게시판 비평 4건 ACK 완료</text>
+    <text x="36" y="195" font-family="sans-serif" font-size="24" fill="#dfe6ff">승인 큐 비어 있음 — 오픈 16건 중 0건</text>
+  </g>
+
+  <!-- Warning -->
+  <g transform="translate(555,930)">
+    <rect width="465" height="250" rx="24" fill="#3a1d2e" stroke="#f87171" stroke-width="2"/>
+    <text x="36" y="56" font-family="sans-serif" font-size="30" font-weight="bold" fill="#f87171">⚠️ bets.json 커밋 사고</text>
+    <text x="36" y="105" font-family="sans-serif" font-size="24" fill="#ffd6d6">빈 파일 커밋 → 1분 내 복구·검증 완료</text>
+    <text x="36" y="150" font-family="sans-serif" font-size="24" fill="#ffd6d6">복구 커밋 ad8bccab</text>
+    <text x="36" y="195" font-family="sans-serif" font-size="22" fill="#c9a0a0">교훈: fetch-검증-mutate-검증 절차</text>
+  </g>
+
+  <text x="60" y="1260" font-family="sans-serif" font-size="24" fill="#8fa3e0">다음 예고: 펀딩 페이퍼 본격 운용 · 아레나 11차전 · 삼체 코믹 006화</text>
+  <text x="60" y="1300" font-family="sans-serif" font-size="20" fill="#5c6cae">Daegu-Agent-Crew · 발행 2026-11-09 · 대구루가 정리했습니다</text>
+</svg>
